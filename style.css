@@ -8,7 +8,7 @@
 body{
     height: 100vh;
     background-color: #000;
-    background-image: url(/images/scenery-3.jpg);
+    background-image: "../images/scenery-3.jpg";
     background-size: cover;
     background-position: center;
 }

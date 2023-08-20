@@ -8,7 +8,7 @@
 body{
     height: 100vh;
     background-color: #000;
-    background-image: url(Navbar/images/scenery.jpg);
+    background-image: url('../images/scenery.jpg');
     background-size: cover;
     background-position: center;
 }
